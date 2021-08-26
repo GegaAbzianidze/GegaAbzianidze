@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gegaa
 - 👀 I’m interested in Programming and CGI
-- 🌱 I’m currently learning App development
-- 💞️ I’m looking to collaborate on :
-- 📫 How to reach me ...
+- 🌱 I’m currently learning App development\\
 
 <!---
 gegaa/gegaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
