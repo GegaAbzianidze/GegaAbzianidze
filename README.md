@@ -1,6 +1,6 @@
 #### A little about me
 ```javascript
-const badri = {
+const info = {
   name: "Gega" | "Abzianidze"
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
