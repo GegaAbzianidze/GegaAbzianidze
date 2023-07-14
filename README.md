@@ -1,7 +1,7 @@
 #### A little about me
 ```javascript
 const info = {
-  name: "Gega" | "Abzianidze"
+  name: "Gega" | "Abzianidze",
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
   askMeAbout: ["web dev", "frontend dev", "python", "flask"],
